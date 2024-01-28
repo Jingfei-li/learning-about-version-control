@@ -1,2 +1,3 @@
 # learning-about-version-control
-Solving merge conflicts is easy!
+advantage: version control allows developers to track their code and cooperate more efficiently.
+challenging: sometimes merge conflict is hard to be resolved
